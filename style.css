@@ -1,0 +1,8 @@
+.Pi {
+	border: 5 px solid # 0000000;
+	padding: 20 px;
+	width:275 px;
+	border-radius:10 px; 
+	-moz-border-radius:10 px;
+	-webkit-border-radius:10 px;
+}
