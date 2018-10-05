@@ -13,3 +13,6 @@ a:link, a:visited {
 a:link:active, a:visited:active { 
     color: (internal value);
 }
+h1 {
+    color: purple;
+}
